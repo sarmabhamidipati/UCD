@@ -1,0 +1,11 @@
+﻿ride_id,duration,station_A_id,station_A_name,station_B_id,station_B_name,bike_id,user_type,user_birth_year,user_gender,tire_sizes,ride_date
+0,12 minutes,81,Berry St at 4th St,323,Broadway at Kearny,5480,2,1959,Male,27.0,2020-01-19
+1,24 minutes,3,Powell St BART Station (Market St at 4th St),118,Eureka Valley Recreation Center,5193,2,1965,Male,26.0,2018-10-24
+2,8 minutes,67,San Francisco Caltrain Station 2 (Townsend St),23,The Embarcadero at Steuart St,3652,3,1993,Male,26.0,2017-12-25
+3,4 minutes,16,Steuart St at Market St,28,The Embarcadero at Bryant St,1883,1,1979,Male,29.0,2022-07-14
+4,11 minutes,22,Howard St at Beale St,350,8th St at Brannan St,4626,2,1994,Male,27.0,2019-01-29
+99,11 minutes,15,San Francisco Ferry Building (Harry Bridges Pl),34,Father Alfred E Boeddeker Park,5063,1,2000,Male,29.0,2017-10-25
+71,10 minutes,15,San Francisco Ferry Building (Harry Bridges Pl),34,Father Alfred E Boeddeker Park,5411,2,1997,Male,26.0,2019-04-05
+71,14 minutes,15,San Francisco Ferry Building (Harry Bridges Pl),42,San Francisco City Hall (Polk St at Grove St),5157,2,1997,Male,29.0,2018-11-29
+89,14 minutes,15,San Francisco Ferry Building (Harry Bridges Pl),42,San Francisco City Hall (Polk St at Grove St),4438,2,1986,Male,26.0,2017-08-09
+89,29 minutes,16,Steuart St at Market St,115,Jackson Playground,1705,3,2060,Male,27.0,2019-10-30
