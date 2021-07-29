@@ -1,0 +1,11 @@
+﻿id,day,airline,destination,dest_region,dest_size,boarding_area,dept_time,wait_min,cleanliness,safety,satisfaction
+1351,Tuesday,UNITED INTL,KANSAI,Asia,Hub,Gates 91-102,31/12/2018,115,Clean,Neutral,Very satisfied
+373,Friday,ALASKA,SAN JOSE DEL CABO,Canada/Mexico,Small,Gates 50-59,31/12/2018,135,Clean,Very safe,Very satisfied
+2820,Thursday,DELTA,LOS ANGELES,West US,Hub,Gates 40-48,31/12/2018,70,Average,Somewhat safe,Neutral
+1157,Tuesday,SOUTHWEST,LOS ANGELES,West US,Hub,Gates 20-39,31/12/2018,190,Clean,Very safe,Somewhat satisfied
+2992,Wednesday,AMERICAN,MIAMI,East US,Hub,Gates 50-59,31/12/2018,559,Unacceptable,Very safe,Somewhat satisfied
+1475,Tuesday ,ALASKA  ,NEW YORK-JFK,East US    ,Hub   ,Gates 50-59  ,31/12/2018,280.0,Somewhat clean,Neutral   ,Somewhat satisfied
+2222,Thursday,SOUTHWEST    ,PHOENIX     ,West US    ,Hub   ,Gates 20-39  ,31/12/2018,165.0,Clean,Very safe   ,Very satisfied
+2684,Friday  ,UNITED  ,ORLANDO     ,East US    ,Hub   ,Gates 70-90  ,31/12/2018,92.0,Clean,Very safe   ,Very satisfied
+2549,Tuesday ,JETBLUE  ,LONG BEACH  ,West US    ,Small   ,Gates 1-12   ,31/12/2018,95.0,Clean,Somewhat safe,Very satisfied
+2162,Saturday,CHINA EASTERN,QINGDAO     ,Asia       ,Large   ,Gates 1-12   ,31/12/2018,220.0,Clean,Very safe   ,Somewhat satisfied
