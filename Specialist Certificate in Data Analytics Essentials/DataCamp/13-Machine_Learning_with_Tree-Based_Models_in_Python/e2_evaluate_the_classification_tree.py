@@ -1,0 +1,20 @@
+"""
+Evaluate the classification tree
+
+Now that you've fit your first classification tree, it's time to evaluate its performance on the test set.
+You'll do so using the accuracy metric which corresponds to the fraction of correct predictions made on the test set.
+
+The trained model dt from the previous exercise is loaded in your workspace along with the test set
+features matrix X_test and the array of labels y_test.
+"""
+import e1_train_your_first_classification_tree
+
+# Import accuracy_score
+from sklearn.metrics import accuracy_score
+
+# Predict test set labels
+y_pred = e1_train_your_first_classification_tree.dt.predict(e1_train_your_first_classification_tree.X_test)
+
+# Compute test set accuracy
+acc = accuracy_score(e1_train_your_first_classification_tree.y_test, y_pred)
+print("Test set accuracy: {:.2f}".format(acc))
